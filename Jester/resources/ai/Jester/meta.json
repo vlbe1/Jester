@@ -1,0 +1,19 @@
+{
+  "name": "Milord Jester",
+  "description": "This is the Milord behaviour for Richard",
+  "author": "Milord",
+  "link": "",
+  "version": "1.0.0",
+  "defaultLang": "en",
+  "supportedLang": ["en"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": false,
+    "portrait": false
+  }
+}

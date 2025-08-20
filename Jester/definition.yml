@@ -1,0 +1,8 @@
+name: Milord-AI-Behaviour
+display-name: "Milord AI Behaviour"
+author: Milord
+version: 1.0.0
+dependencies: 
+  aiSwapper: ^1.0.1
+  framework: ^3.0.0
+  frontend: ^1.0.0
